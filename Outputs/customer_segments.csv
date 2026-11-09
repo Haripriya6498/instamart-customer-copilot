@@ -1,0 +1,1174 @@
+customer_id,recency,frequency,monetary,segment_id,segment_name,is_premium
+C0001,15,3,487.65,3,At Risk,False
+C0002,29,7,4644.9,0,Loyal,True
+C0003,8,22,3644.85,2,Loyal,False
+C0004,1,5,369.0,3,At Risk,False
+C0005,148,2,324.0,1,At Risk,False
+C0006,35,1,90.0,3,At Risk,False
+C0007,4,18,2600.0,2,Loyal,False
+C0008,4,15,3096.5,2,Loyal,False
+C0009,20,11,8424.8,0,Loyal,True
+C0010,67,4,450.0,3,At Risk,False
+C0011,3,21,3583.85,2,Loyal,False
+C0012,75,4,3395.3,0,Loyal,True
+C0013,126,3,726.0,1,At Risk,False
+C0014,23,8,8006.9,0,Loyal,True
+C0015,72,3,718.8,3,At Risk,False
+C0016,23,3,3546.0,0,Loyal,True
+C0017,9,5,7521.7,0,Loyal,True
+C0018,5,3,206.55,3,At Risk,False
+C0019,62,3,955.0,3,At Risk,False
+C0020,8,17,4257.55,2,Loyal,False
+C0021,1,4,5344.4,0,Loyal,True
+C0022,39,1,190.0,3,At Risk,False
+C0023,93,3,616.0,1,At Risk,False
+C0024,9,2,2766.0,0,Loyal,True
+C0025,19,7,756.1,3,At Risk,False
+C0026,11,18,4756.55,2,Loyal,False
+C0027,15,5,1562.75,0,Loyal,True
+C0028,8,7,486.0,3,At Risk,False
+C0030,47,1,159.6,3,At Risk,False
+C0031,2,17,2223.1,2,Loyal,False
+C0032,47,4,363.8,3,At Risk,False
+C0033,5,18,3133.25,2,Loyal,False
+C0034,2,21,4437.0,2,Loyal,False
+C0035,7,5,6493.8,0,Loyal,True
+C0036,9,2,234.0,3,At Risk,False
+C0038,72,1,48.0,1,At Risk,False
+C0039,18,15,3601.55,2,Loyal,False
+C0040,40,3,251.5,3,At Risk,False
+C0041,145,1,285.0,1,At Risk,False
+C0042,90,2,138.6,1,At Risk,False
+C0043,24,1,245.0,3,At Risk,False
+C0044,3,18,3020.1,2,Loyal,False
+C0045,6,10,9230.9,0,Loyal,True
+C0046,84,3,505.4,1,At Risk,False
+C0047,115,1,258.0,1,At Risk,False
+C0048,32,4,704.5,3,At Risk,False
+C0049,21,17,2726.25,2,Loyal,False
+C0050,5,19,3207.3,2,Loyal,False
+C0051,14,22,5705.7,2,Loyal,False
+C0052,22,9,1335.9,0,Loyal,True
+C0053,149,2,448.5,1,At Risk,False
+C0054,103,5,1501.35,1,At Risk,False
+C0055,162,1,112.0,1,At Risk,False
+C0056,19,4,513.0,3,At Risk,False
+C0057,16,1,285.0,3,At Risk,False
+C0058,1,19,2988.25,2,Loyal,False
+C0059,9,21,2896.55,2,Loyal,False
+C0060,7,6,6058.4,0,Loyal,True
+C0061,1,16,2248.25,2,Loyal,False
+C0062,11,8,1323.3,0,Loyal,True
+C0063,3,19,4030.7,2,Loyal,False
+C0064,46,6,548.85,3,At Risk,False
+C0065,23,22,2379.95,2,Loyal,False
+C0066,3,23,3901.35,2,Loyal,False
+C0067,9,3,316.05,3,At Risk,False
+C0068,28,21,2733.8,2,Loyal,False
+C0069,149,1,294.0,1,At Risk,False
+C0070,41,17,2917.95,2,Loyal,False
+C0071,4,9,2337.9,2,Loyal,False
+C0072,9,22,5021.85,2,Loyal,False
+C0073,1,17,2736.4,2,Loyal,False
+C0074,4,27,3636.4,2,Loyal,False
+C0075,10,18,3600.5,2,Loyal,False
+C0076,10,3,789.8,3,At Risk,False
+C0077,85,1,150.0,1,At Risk,False
+C0078,8,16,3320.45,2,Loyal,False
+C0079,16,4,603.2,3,At Risk,False
+C0080,3,24,3903.55,2,Loyal,False
+C0081,13,17,2992.85,2,Loyal,False
+C0082,3,8,12856.2,0,Loyal,True
+C0083,35,15,2164.95,2,Loyal,False
+C0084,6,22,5021.1,2,Loyal,False
+C0085,108,3,463.25,1,At Risk,False
+C0086,2,16,1920.2,2,Loyal,False
+C0087,78,2,302.5,1,At Risk,False
+C0088,10,12,2122.1,2,Loyal,False
+C0089,2,19,2971.3,2,Loyal,False
+C0090,38,4,661.3,3,At Risk,False
+C0091,17,7,1291.0,0,Loyal,True
+C0092,2,21,3143.25,2,Loyal,False
+C0094,19,20,4154.25,2,Loyal,False
+C0095,44,7,1389.2,0,Loyal,True
+C0096,7,19,3692.8,2,Loyal,False
+C0097,90,1,132.0,1,At Risk,False
+C0098,5,8,8151.2,0,Loyal,True
+C0099,136,1,84.0,1,At Risk,False
+C0100,2,16,2513.05,2,Loyal,False
+C0101,20,20,2859.9,2,Loyal,False
+C0102,32,4,4325.0,0,Loyal,True
+C0103,20,2,184.8,3,At Risk,False
+C0104,6,11,2670.7,2,Loyal,False
+C0105,37,2,350.0,3,At Risk,False
+C0106,125,1,219.3,1,At Risk,False
+C0107,35,2,309.0,3,At Risk,False
+C0108,8,28,5449.7,2,Loyal,False
+C0109,56,4,676.4,3,At Risk,False
+C0110,128,2,190.55,1,At Risk,False
+C0111,29,4,452.75,3,At Risk,False
+C0112,25,3,912.8,3,At Risk,False
+C0113,26,3,357.3,3,At Risk,False
+C0114,108,3,960.9,1,At Risk,False
+C0116,22,2,78.85,3,At Risk,False
+C0117,159,1,157.5,1,At Risk,False
+C0118,11,11,1890.85,2,Loyal,False
+C0119,6,20,2775.4,2,Loyal,False
+C0121,72,3,527.4,3,At Risk,False
+C0122,23,2,173.4,3,At Risk,False
+C0123,5,15,1980.8,2,Loyal,False
+C0124,4,18,3236.95,2,Loyal,False
+C0125,8,15,2023.25,2,Loyal,False
+C0126,5,24,4130.3,2,Loyal,False
+C0127,47,3,726.5,3,At Risk,False
+C0128,5,17,2886.05,2,Loyal,False
+C0129,113,2,407.4,1,At Risk,False
+C0130,19,8,9422.4,0,Loyal,True
+C0131,45,18,3015.05,2,Loyal,False
+C0132,174,1,60.0,1,At Risk,False
+C0133,24,5,4746.05,0,Loyal,True
+C0134,2,21,4683.5,2,Loyal,False
+C0135,22,3,688.0,3,At Risk,False
+C0136,4,4,5101.3,0,Loyal,True
+C0137,26,4,374.4,3,At Risk,False
+C0139,10,14,2481.55,2,Loyal,False
+C0140,6,22,4171.55,2,Loyal,False
+C0141,42,3,446.0,3,At Risk,False
+C0142,19,14,3427.25,2,Loyal,False
+C0143,11,18,3757.95,2,Loyal,False
+C0144,8,20,5146.85,2,Loyal,False
+C0145,20,2,414.8,3,At Risk,False
+C0146,7,12,2475.3,2,Loyal,False
+C0147,35,9,10028.8,0,Loyal,True
+C0148,10,27,4854.5,2,Loyal,False
+C0149,8,18,5229.2,2,Loyal,False
+C0150,49,3,248.4,3,At Risk,False
+C0152,88,6,4456.549999999999,0,Loyal,True
+C0153,54,1,80.75,3,At Risk,False
+C0154,2,19,4720.85,2,Loyal,False
+C0155,21,1,539.1,3,At Risk,False
+C0156,77,1,280.0,1,At Risk,False
+C0157,33,3,446.4,3,At Risk,False
+C0158,32,4,686.75,3,At Risk,False
+C0159,26,22,3724.5,2,Loyal,False
+C0160,22,23,5436.9,2,Loyal,False
+C0161,60,3,708.2,3,At Risk,False
+C0162,26,6,4685.5,0,Loyal,True
+C0163,40,6,5321.25,0,Loyal,True
+C0164,36,15,3594.4,2,Loyal,False
+C0165,43,2,480.5,3,At Risk,False
+C0166,77,3,1402.25,3,At Risk,False
+C0167,15,5,9212.65,0,Loyal,True
+C0168,5,14,2751.5,2,Loyal,False
+C0169,31,5,1192.3,0,Loyal,True
+C0170,23,21,4940.35,2,Loyal,False
+C0171,73,4,956.6,3,At Risk,False
+C0172,116,1,108.0,1,At Risk,False
+C0173,2,18,3070.75,2,Loyal,False
+C0174,108,2,483.2,1,At Risk,False
+C0175,23,20,3682.85,2,Loyal,False
+C0176,7,15,2644.9,2,Loyal,False
+C0177,109,2,357.0,1,At Risk,False
+C0178,58,3,2028.55,0,Loyal,True
+C0179,3,15,1906.7,2,Loyal,False
+C0180,64,2,728.4,3,At Risk,False
+C0181,16,8,5513.099999999999,0,Loyal,True
+C0182,14,21,3087.05,2,Loyal,False
+C0183,81,4,513.2,3,At Risk,False
+C0184,43,4,3626.6000000000004,0,Loyal,True
+C0185,10,3,2166.7,0,Loyal,True
+C0186,47,3,2070.8,0,Loyal,True
+C0187,27,13,2509.55,2,Loyal,False
+C0188,44,7,6888.2,0,Loyal,True
+C0189,20,3,508.8,3,At Risk,False
+C0190,1,24,4489.3,2,Loyal,False
+C0191,5,9,2052.95,2,Loyal,False
+C0192,9,16,3131.2,2,Loyal,False
+C0193,5,17,3404.15,2,Loyal,False
+C0194,22,3,461.5,3,At Risk,False
+C0195,26,4,410.5,3,At Risk,False
+C0196,5,5,2440.7,0,Loyal,True
+C0197,3,18,3484.5,2,Loyal,False
+C0198,43,2,1172.4,3,At Risk,False
+C0199,28,4,671.5,3,At Risk,False
+C0200,13,15,3092.95,2,Loyal,False
+C0201,7,17,2169.3,2,Loyal,False
+C0202,8,24,2980.15,2,Loyal,False
+C0203,35,5,934.1,3,At Risk,False
+C0204,60,3,266.8,3,At Risk,False
+C0205,9,22,3472.5,2,Loyal,False
+C0206,35,4,693.4000000000001,3,At Risk,False
+C0207,14,7,1208.5,0,Loyal,True
+C0208,1,15,3643.8,2,Loyal,False
+C0209,3,24,5559.8,2,Loyal,False
+C0210,27,9,809.65,3,At Risk,False
+C0211,34,5,3565.85,0,Loyal,True
+C0212,23,6,6972.1,0,Loyal,True
+C0213,5,22,3556.0,2,Loyal,False
+C0214,32,2,188.7,3,At Risk,False
+C0215,66,2,512.0,3,At Risk,False
+C0216,13,21,4324.85,2,Loyal,False
+C0217,15,3,2102.3,0,Loyal,True
+C0218,10,21,3508.65,2,Loyal,False
+C0219,45,3,315.5,3,At Risk,False
+C0220,3,29,4713.35,2,Loyal,False
+C0221,38,4,1201.3,3,At Risk,False
+C0222,65,1,252.0,3,At Risk,False
+C0223,94,2,114.0,1,At Risk,False
+C0224,68,5,2434.0,0,Loyal,True
+C0225,100,3,393.0,1,At Risk,False
+C0226,36,4,366.5,3,At Risk,False
+C0227,2,32,4340.55,2,Loyal,False
+C0228,30,2,253.0,3,At Risk,False
+C0229,2,17,2844.55,2,Loyal,False
+C0230,3,5,4888.55,0,Loyal,True
+C0231,125,2,466.1,1,At Risk,False
+C0232,10,18,2569.6,2,Loyal,False
+C0233,48,4,1903.05,0,Loyal,True
+C0234,46,4,780.0,3,At Risk,False
+C0235,26,4,464.95,3,At Risk,False
+C0236,39,4,596.6,3,At Risk,False
+C0237,22,2,211.8,3,At Risk,False
+C0238,1,10,7255.9,2,Loyal,False
+C0239,36,3,213.3,3,At Risk,False
+C0240,4,20,3389.1,2,Loyal,False
+C0241,5,22,3435.5,2,Loyal,False
+C0242,2,19,4084.9,2,Loyal,False
+C0243,3,29,6082.3,2,Loyal,False
+C0244,24,16,1964.5,2,Loyal,False
+C0245,20,3,1097.0,3,At Risk,False
+C0246,8,19,2611.9,2,Loyal,False
+C0247,10,21,2608.45,2,Loyal,False
+C0248,1,25,4147.75,2,Loyal,False
+C0249,6,2,186.25,3,At Risk,False
+C0250,6,5,2762.7,0,Loyal,True
+C0251,32,20,3646.6,2,Loyal,False
+C0252,4,15,3303.2,2,Loyal,False
+C0253,38,4,938.8,3,At Risk,False
+C0254,78,4,307.15,3,At Risk,False
+C0255,1,28,5182.0,2,Loyal,False
+C0256,5,20,3011.75,2,Loyal,False
+C0257,37,3,237.3,3,At Risk,False
+C0258,10,20,2832.05,2,Loyal,False
+C0259,70,5,959.0,3,At Risk,False
+C0260,9,11,2403.0,2,Loyal,False
+C0261,5,17,1609.6000000000001,2,Loyal,False
+C0262,71,3,739.0,3,At Risk,False
+C0263,23,19,4997.2,2,Loyal,False
+C0264,48,3,2495.0,0,Loyal,True
+C0265,4,4,432.2,3,At Risk,False
+C0266,175,1,15.0,1,At Risk,False
+C0267,25,7,12210.25,0,Loyal,True
+C0268,5,17,2702.45,2,Loyal,False
+C0269,46,2,717.5,3,At Risk,False
+C0270,13,14,2722.6,2,Loyal,False
+C0271,32,4,7488.3,0,Loyal,True
+C0272,6,16,2554.9,2,Loyal,False
+C0273,75,5,903.5,3,At Risk,False
+C0274,157,1,2698.2,1,At Risk,False
+C0275,41,11,1986.9,0,Loyal,True
+C0276,116,2,114.0,1,At Risk,False
+C0277,167,1,54.0,1,At Risk,False
+C0278,74,3,1534.5,3,At Risk,False
+C0279,60,2,250.0,3,At Risk,False
+C0280,7,4,2505.75,0,Loyal,True
+C0281,37,19,2379.15,2,Loyal,False
+C0282,10,26,3686.85,2,Loyal,False
+C0283,60,2,408.0,3,At Risk,False
+C0284,51,2,730.0,3,At Risk,False
+C0285,104,3,210.0,1,At Risk,False
+C0286,10,4,838.0,3,At Risk,False
+C0287,4,20,3364.05,2,Loyal,False
+C0288,17,2,283.2,3,At Risk,False
+C0289,1,15,3277.75,2,Loyal,False
+C0290,4,24,4178.2,2,Loyal,False
+C0291,23,11,13742.6,0,Loyal,True
+C0292,65,3,1012.0,3,At Risk,False
+C0293,1,17,3024.05,2,Loyal,False
+C0294,23,22,4064.45,2,Loyal,False
+C0295,62,2,100.19999999999999,3,At Risk,False
+C0296,63,2,2767.1,0,Loyal,True
+C0297,6,14,2289.0,2,Loyal,False
+C0298,2,22,4419.9,2,Loyal,False
+C0299,5,6,5147.3,0,Loyal,True
+C0300,40,4,4099.75,0,Loyal,True
+C0301,119,2,573.5,1,At Risk,False
+C0302,40,4,854.2,3,At Risk,False
+C0303,20,6,3390.15,0,Loyal,True
+C0304,42,3,360.25,3,At Risk,False
+C0305,10,22,3921.0,2,Loyal,False
+C0306,14,3,1308.2,3,At Risk,False
+C0307,86,2,361.2,1,At Risk,False
+C0308,29,6,10750.8,0,Loyal,True
+C0309,1,25,4565.6,2,Loyal,False
+C0310,38,1,329.4,3,At Risk,False
+C0311,39,7,3751.4,0,Loyal,True
+C0312,15,8,6095.2,0,Loyal,True
+C0313,5,17,2799.1,2,Loyal,False
+C0314,9,19,3198.0,2,Loyal,False
+C0315,19,10,1982.1,2,Loyal,False
+C0316,8,4,4045.0,0,Loyal,True
+C0317,9,21,3834.4,2,Loyal,False
+C0318,83,3,475.8,1,At Risk,False
+C0319,138,1,180.0,1,At Risk,False
+C0320,2,5,2861.2,0,Loyal,True
+C0321,53,2,285.8,3,At Risk,False
+C0322,15,16,4716.0,2,Loyal,False
+C0323,78,1,116.0,1,At Risk,False
+C0324,15,5,6142.8,0,Loyal,True
+C0325,28,4,1338.4,0,Loyal,True
+C0326,52,14,2018.0,2,Loyal,False
+C0327,11,21,3265.4,2,Loyal,False
+C0328,63,2,331.5,3,At Risk,False
+C0329,26,3,2395.0,0,Loyal,True
+C0330,13,4,268.65,3,At Risk,False
+C0331,24,5,4385.05,0,Loyal,True
+C0332,45,9,11806.4,0,Loyal,True
+C0333,155,1,718.2,1,At Risk,False
+C0334,5,17,1946.35,2,Loyal,False
+C0335,38,4,6720.9,0,Loyal,True
+C0336,4,6,641.7,3,At Risk,False
+C0337,19,14,1684.35,2,Loyal,False
+C0338,9,18,4391.25,2,Loyal,False
+C0339,13,2,245.8,3,At Risk,False
+C0340,71,1,314.1,1,At Risk,False
+C0341,12,27,4376.05,2,Loyal,False
+C0342,4,19,3631.15,2,Loyal,False
+C0343,1,7,1323.5,0,Loyal,True
+C0344,3,19,3167.7,2,Loyal,False
+C0345,3,20,2623.2,2,Loyal,False
+C0346,7,20,3038.55,2,Loyal,False
+C0347,11,7,3426.85,0,Loyal,True
+C0348,3,33,6014.35,2,Loyal,False
+C0349,27,3,249.0,3,At Risk,False
+C0350,2,3,472.3,3,At Risk,False
+C0351,22,2,1396.0,3,At Risk,False
+C0352,20,24,3362.0,2,Loyal,False
+C0353,9,19,2431.25,2,Loyal,False
+C0355,8,25,4024.0,2,Loyal,False
+C0356,141,2,538.0,1,At Risk,False
+C0357,24,5,1021.0999999999999,3,At Risk,False
+C0358,49,2,698.8,3,At Risk,False
+C0359,22,22,4627.9,2,Loyal,False
+C0360,20,12,2648.0499999999997,2,Loyal,False
+C0361,82,5,4377.6,0,Loyal,True
+C0362,6,3,903.75,3,At Risk,False
+C0364,48,3,730.5,3,At Risk,False
+C0365,72,2,96.0,1,At Risk,False
+C0366,67,1,33.6,1,At Risk,False
+C0367,4,16,1982.5,2,Loyal,False
+C0368,25,4,709.0,3,At Risk,False
+C0369,10,8,7070.849999999999,0,Loyal,True
+C0370,27,17,2689.05,2,Loyal,False
+C0371,3,20,4242.05,2,Loyal,False
+C0372,1,6,4981.0,0,Loyal,True
+C0373,55,3,926.0,3,At Risk,False
+C0374,3,7,1600.0,0,Loyal,True
+C0375,17,7,5177.25,0,Loyal,True
+C0376,68,3,536.3,3,At Risk,False
+C0377,75,4,980.6,3,At Risk,False
+C0378,8,19,4015.25,2,Loyal,False
+C0379,51,4,1002.1,3,At Risk,False
+C0380,7,6,5810.6,0,Loyal,True
+C0381,1,21,3692.2999999999997,2,Loyal,False
+C0382,9,22,4610.5,2,Loyal,False
+C0383,21,18,3552.6,2,Loyal,False
+C0384,19,26,6207.9,2,Loyal,False
+C0385,4,11,2253.2,2,Loyal,False
+C0386,13,2,906.6,3,At Risk,False
+C0387,156,1,700.0,1,At Risk,False
+C0388,6,12,1683.95,2,Loyal,False
+C0389,8,4,2634.35,0,Loyal,True
+C0390,118,3,604.0,1,At Risk,False
+C0391,60,3,1063.2,3,At Risk,False
+C0392,21,16,2692.75,2,Loyal,False
+C0393,50,4,870.1,3,At Risk,False
+C0394,55,9,3233.3,0,Loyal,True
+C0395,42,4,412.7,3,At Risk,False
+C0396,2,16,2349.25,2,Loyal,False
+C0397,78,3,288.5,1,At Risk,False
+C0398,24,16,2661.85,2,Loyal,False
+C0399,130,1,272.0,1,At Risk,False
+C0400,2,23,5759.9,2,Loyal,False
+C0401,51,2,190.7,3,At Risk,False
+C0402,11,5,2374.0,0,Loyal,True
+C0403,2,5,1045.25,3,At Risk,False
+C0404,54,4,707.6,3,At Risk,False
+C0405,62,4,1208.2,3,At Risk,False
+C0406,21,3,911.8,3,At Risk,False
+C0407,71,8,9945.85,0,Loyal,True
+C0408,9,23,3308.5,2,Loyal,False
+C0409,14,11,1924.55,2,Loyal,False
+C0410,46,7,4762.45,0,Loyal,True
+C0411,26,20,2756.15,2,Loyal,False
+C0413,9,3,299.2,3,At Risk,False
+C0414,42,4,740.5,3,At Risk,False
+C0415,39,3,1244.6000000000001,3,At Risk,False
+C0416,30,19,3647.15,2,Loyal,False
+C0417,7,24,3776.75,2,Loyal,False
+C0418,175,1,399.0,1,At Risk,False
+C0419,79,4,1682.9,0,Loyal,True
+C0420,2,27,4284.75,2,Loyal,False
+C0421,47,3,1414.0,3,At Risk,False
+C0422,163,2,682.0,1,At Risk,False
+C0423,81,1,116.0,1,At Risk,False
+C0424,47,7,9292.3,0,Loyal,True
+C0425,55,3,744.0,3,At Risk,False
+C0426,24,11,10377.1,0,Loyal,True
+C0427,36,4,697.0,3,At Risk,False
+C0428,3,23,4445.3,2,Loyal,False
+C0429,21,13,1145.1,2,Loyal,False
+C0430,6,6,420.9,3,At Risk,False
+C0431,8,19,2111.95,2,Loyal,False
+C0432,1,23,4913.95,2,Loyal,False
+C0433,44,8,2878.0,0,Loyal,True
+C0434,18,2,542.5,3,At Risk,False
+C0435,7,28,6485.1,2,Loyal,False
+C0436,162,3,2295.25,1,At Risk,False
+C0437,111,3,813.6,1,At Risk,False
+C0438,22,4,1226.1,3,At Risk,False
+C0439,14,2,213.0,3,At Risk,False
+C0440,2,2,328.3,3,At Risk,False
+C0441,5,18,2277.75,2,Loyal,False
+C0442,8,4,2144.3500000000004,0,Loyal,True
+C0443,10,3,987.2,3,At Risk,False
+C0444,6,15,4754.3,2,Loyal,False
+C0445,7,4,1070.95,3,At Risk,False
+C0446,30,18,3034.15,2,Loyal,False
+C0447,22,28,4645.5,2,Loyal,False
+C0448,149,2,463.5,1,At Risk,False
+C0449,67,3,1310.5,3,At Risk,False
+C0450,95,5,4323.15,0,Loyal,True
+C0451,25,4,3295.7,0,Loyal,True
+C0452,5,4,1319.3,0,Loyal,True
+C0453,87,4,2081.25,0,Loyal,True
+C0454,55,6,8447.65,0,Loyal,True
+C0455,72,4,1975.8,0,Loyal,True
+C0456,5,17,3393.1,2,Loyal,False
+C0457,8,7,6115.2,0,Loyal,True
+C0458,140,5,892.35,1,At Risk,False
+C0459,16,5,979.0,3,At Risk,False
+C0460,3,15,2286.5,2,Loyal,False
+C0462,5,21,3852.35,2,Loyal,False
+C0463,123,1,208.0,1,At Risk,False
+C0464,4,3,663.5,3,At Risk,False
+C0465,25,3,379.2,3,At Risk,False
+C0466,24,3,972.5,3,At Risk,False
+C0467,17,3,744.0,3,At Risk,False
+C0468,111,3,180.6,1,At Risk,False
+C0469,2,23,4102.4,2,Loyal,False
+C0470,18,8,5170.4,0,Loyal,True
+C0471,47,6,7889.799999999999,0,Loyal,True
+C0472,8,18,2983.9500000000003,2,Loyal,False
+C0473,179,1,45.0,1,At Risk,False
+C0474,12,16,2231.35,2,Loyal,False
+C0475,117,1,36.0,1,At Risk,False
+C0476,55,6,6361.85,0,Loyal,True
+C0478,24,4,480.0,3,At Risk,False
+C0479,21,7,6497.400000000001,0,Loyal,True
+C0480,7,14,3982.6,2,Loyal,False
+C0481,145,1,193.5,1,At Risk,False
+C0482,4,4,875.2,3,At Risk,False
+C0483,47,10,4126.0,0,Loyal,True
+C0484,113,4,662.0,1,At Risk,False
+C0485,13,12,1676.95,2,Loyal,False
+C0486,96,2,393.0,1,At Risk,False
+C0487,34,3,292.9,3,At Risk,False
+C0488,9,11,13187.5,2,Loyal,False
+C0489,1,18,2706.4,2,Loyal,False
+C0490,2,19,3835.75,2,Loyal,False
+C0491,11,20,3192.15,2,Loyal,False
+C0492,7,27,5191.5,2,Loyal,False
+C0493,7,3,3968.55,0,Loyal,True
+C0494,22,14,1752.15,2,Loyal,False
+C0495,42,1,73.5,3,At Risk,False
+C0496,26,5,3230.9,0,Loyal,True
+C0497,22,4,3471.25,0,Loyal,True
+C0498,3,17,2803.9,2,Loyal,False
+C0499,63,2,278.8,3,At Risk,False
+C0501,89,1,69.6,1,At Risk,False
+C0502,19,14,2305.25,2,Loyal,False
+C0503,1,18,3419.1,2,Loyal,False
+C0504,114,2,154.0,1,At Risk,False
+C0505,31,11,1784.9,2,Loyal,False
+C0506,45,5,3102.45,0,Loyal,True
+C0507,91,1,209.0,1,At Risk,False
+C0508,16,13,2892.35,2,Loyal,False
+C0509,4,5,5703.65,0,Loyal,True
+C0510,3,22,3385.9,2,Loyal,False
+C0511,23,2,776.0,3,At Risk,False
+C0512,72,5,11617.65,0,Loyal,True
+C0513,85,3,505.5,1,At Risk,False
+C0514,37,3,1004.25,3,At Risk,False
+C0515,86,5,1327.2,3,At Risk,False
+C0516,1,21,3642.35,2,Loyal,False
+C0517,8,1,90.25,3,At Risk,False
+C0518,83,3,245.75,1,At Risk,False
+C0519,26,6,4674.35,0,Loyal,True
+C0520,24,5,3051.7,0,Loyal,True
+C0521,9,5,1976.05,0,Loyal,True
+C0522,39,4,855.5,3,At Risk,False
+C0523,13,17,2805.55,2,Loyal,False
+C0524,44,7,7961.4,0,Loyal,True
+C0525,31,7,12719.7,0,Loyal,True
+C0526,2,4,508.05,3,At Risk,False
+C0527,6,24,6047.7,2,Loyal,False
+C0528,116,1,28.8,1,At Risk,False
+C0529,26,13,1264.4,2,Loyal,False
+C0530,17,25,4825.9,2,Loyal,False
+C0531,9,20,3741.95,2,Loyal,False
+C0532,88,1,80.75,1,At Risk,False
+C0533,31,7,6870.7,0,Loyal,True
+C0534,6,7,990.0,0,Loyal,True
+C0535,67,3,469.5,3,At Risk,False
+C0536,12,20,3285.8,2,Loyal,False
+C0537,4,20,3988.0,2,Loyal,False
+C0538,3,15,2739.1,2,Loyal,False
+C0539,13,23,3920.85,2,Loyal,False
+C0540,9,17,3165.45,2,Loyal,False
+C0541,90,1,38.25,1,At Risk,False
+C0542,25,2,169.5,3,At Risk,False
+C0543,14,9,11195.1,0,Loyal,True
+C0544,7,18,2674.85,2,Loyal,False
+C0545,14,1,127.5,3,At Risk,False
+C0546,23,12,2269.35,2,Loyal,False
+C0547,5,22,3180.8,2,Loyal,False
+C0548,1,24,5265.05,2,Loyal,False
+C0549,3,3,389.0,3,At Risk,False
+C0550,2,12,2855.2,2,Loyal,False
+C0551,14,3,1280.25,3,At Risk,False
+C0552,42,2,488.0,3,At Risk,False
+C0553,14,6,6855.1,0,Loyal,True
+C0554,17,13,2887.5,2,Loyal,False
+C0555,13,15,3199.4,2,Loyal,False
+C0556,30,5,1598.2,0,Loyal,True
+C0557,8,10,7527.8,2,Loyal,False
+C0558,48,13,1627.35,2,Loyal,False
+C0559,3,18,2762.65,2,Loyal,False
+C0560,18,8,1147.75,0,Loyal,True
+C0561,3,17,2757.5,2,Loyal,False
+C0562,8,3,1537.7000000000003,0,Loyal,True
+C0563,28,3,4116.4,0,Loyal,True
+C0564,5,17,3626.8,2,Loyal,False
+C0565,48,4,4399.65,0,Loyal,True
+C0566,24,4,769.9,3,At Risk,False
+C0567,5,22,2127.4,2,Loyal,False
+C0568,41,2,88.8,3,At Risk,False
+C0569,26,5,643.4,3,At Risk,False
+C0570,7,22,3339.4,2,Loyal,False
+C0571,40,4,1950.95,0,Loyal,True
+C0572,58,4,497.35,3,At Risk,False
+C0573,76,5,1221.9,3,At Risk,False
+C0574,5,23,3256.4,2,Loyal,False
+C0575,1,15,3115.7,2,Loyal,False
+C0576,10,2,383.2,3,At Risk,False
+C0577,10,5,5138.4,0,Loyal,True
+C0578,57,3,1064.75,3,At Risk,False
+C0579,7,13,1983.55,2,Loyal,False
+C0580,7,17,2881.15,2,Loyal,False
+C0581,111,2,387.3,1,At Risk,False
+C0582,91,3,2775.8,0,Loyal,True
+C0583,11,16,2651.3,2,Loyal,False
+C0584,47,4,943.5,3,At Risk,False
+C0585,5,14,1956.75,2,Loyal,False
+C0586,40,1,247.0,3,At Risk,False
+C0587,3,26,4184.8,2,Loyal,False
+C0588,19,6,6344.1,0,Loyal,True
+C0589,9,18,3246.15,2,Loyal,False
+C0590,26,2,270.2,3,At Risk,False
+C0591,15,19,2530.85,2,Loyal,False
+C0592,8,23,3862.25,2,Loyal,False
+C0593,18,10,836.6,2,Loyal,False
+C0594,22,25,3694.3,2,Loyal,False
+C0595,5,18,2532.3,2,Loyal,False
+C0596,8,26,4031.7,2,Loyal,False
+C0597,4,20,2896.35,2,Loyal,False
+C0598,6,4,597.75,3,At Risk,False
+C0599,17,3,353.25,3,At Risk,False
+C0600,4,8,5292.65,0,Loyal,True
+C0601,41,2,204.0,3,At Risk,False
+C0602,122,2,164.4,1,At Risk,False
+C0603,91,2,331.20000000000005,1,At Risk,False
+C0604,1,19,4975.9,2,Loyal,False
+C0605,62,4,685.0,3,At Risk,False
+C0606,23,17,3362.9,2,Loyal,False
+C0608,99,1,280.0,1,At Risk,False
+C0609,32,26,4752.65,2,Loyal,False
+C0610,143,2,4497.0,1,At Risk,False
+C0611,2,11,2703.55,2,Loyal,False
+C0612,2,7,981.6,0,Loyal,True
+C0613,4,17,2544.5,2,Loyal,False
+C0614,21,1,21.75,3,At Risk,False
+C0615,6,12,1970.2,2,Loyal,False
+C0616,73,3,2518.6,0,Loyal,True
+C0617,49,2,61.0,3,At Risk,False
+C0618,15,2,74.0,3,At Risk,False
+C0619,15,3,3554.0,0,Loyal,True
+C0620,12,22,3356.0,2,Loyal,False
+C0621,10,2,366.0,3,At Risk,False
+C0622,53,5,785.0,3,At Risk,False
+C0623,87,1,245.0,1,At Risk,False
+C0624,44,6,1049.6,3,At Risk,False
+C0626,14,18,2865.55,2,Loyal,False
+C0627,16,7,5244.9,0,Loyal,True
+C0628,23,2,158.0,3,At Risk,False
+C0629,1,24,3514.9,2,Loyal,False
+C0630,46,4,649.1,3,At Risk,False
+C0631,59,7,3931.25,0,Loyal,True
+C0632,5,3,517.0,3,At Risk,False
+C0633,2,22,4261.7,2,Loyal,False
+C0634,41,1,255.0,3,At Risk,False
+C0635,77,4,292.2,3,At Risk,False
+C0636,3,18,2700.7,2,Loyal,False
+C0637,87,1,80.75,1,At Risk,False
+C0638,4,18,2777.15,2,Loyal,False
+C0639,30,17,3302.4,2,Loyal,False
+C0640,1,22,3287.2,2,Loyal,False
+C0641,14,24,4045.4,2,Loyal,False
+C0642,34,2,548.0,3,At Risk,False
+C0643,1,9,1088.4,2,Loyal,False
+C0644,2,21,3904.9,2,Loyal,False
+C0645,7,4,512.25,3,At Risk,False
+C0646,1,20,2775.5,2,Loyal,False
+C0647,4,5,2106.0,0,Loyal,True
+C0648,61,1,142.5,3,At Risk,False
+C0649,39,3,1131.4,3,At Risk,False
+C0650,7,21,3955.75,2,Loyal,False
+C0651,21,3,1610.75,0,Loyal,True
+C0652,7,2,191.0,3,At Risk,False
+C0653,42,9,8764.1,0,Loyal,True
+C0655,41,2,121.8,3,At Risk,False
+C0656,5,17,2959.9,2,Loyal,False
+C0657,2,3,496.0,3,At Risk,False
+C0658,31,3,185.5,3,At Risk,False
+C0659,5,10,8321.8,2,Loyal,False
+C0660,77,2,300.0,1,At Risk,False
+C0661,74,5,558.5,3,At Risk,False
+C0662,9,3,175.1,3,At Risk,False
+C0663,13,16,2786.55,2,Loyal,False
+C0664,31,21,3332.95,2,Loyal,False
+C0665,10,6,6817.5,0,Loyal,True
+C0666,16,18,3008.0,2,Loyal,False
+C0667,58,4,284.8,3,At Risk,False
+C0668,48,1,168.0,3,At Risk,False
+C0669,25,15,2157.15,2,Loyal,False
+C0670,13,6,4534.0,0,Loyal,True
+C0671,11,21,3478.9,2,Loyal,False
+C0672,48,2,228.0,3,At Risk,False
+C0673,54,1,399.0,3,At Risk,False
+C0674,16,17,4001.85,2,Loyal,False
+C0675,7,17,2856.1,2,Loyal,False
+C0676,9,4,316.5,3,At Risk,False
+C0677,137,2,244.0,1,At Risk,False
+C0678,25,24,3480.2,2,Loyal,False
+C0679,1,14,2643.4,2,Loyal,False
+C0680,5,2,135.0,3,At Risk,False
+C0681,83,7,5284.9,0,Loyal,True
+C0682,52,7,7733.3,0,Loyal,True
+C0683,1,25,3976.5,2,Loyal,False
+C0684,13,29,6638.75,2,Loyal,False
+C0685,11,13,3493.25,2,Loyal,False
+C0686,44,1,131.75,3,At Risk,False
+C0687,29,3,4065.85,0,Loyal,True
+C0688,19,6,1138.0,0,Loyal,True
+C0689,5,15,2834.6,2,Loyal,False
+C0690,7,22,3370.45,2,Loyal,False
+C0691,119,2,318.0,1,At Risk,False
+C0692,181,1,2598.0,1,At Risk,False
+C0693,28,9,14766.55,0,Loyal,True
+C0694,33,3,578.6,3,At Risk,False
+C0695,24,3,703.95,3,At Risk,False
+C0696,52,9,10087.8,0,Loyal,True
+C0697,30,4,5003.1,0,Loyal,True
+C0698,37,2,239.0,3,At Risk,False
+C0699,3,10,12471.8,0,Loyal,True
+C0700,33,7,6049.8,0,Loyal,True
+C0701,8,20,3626.5,2,Loyal,False
+C0702,129,3,904.0,1,At Risk,False
+C0703,45,4,2254.3,0,Loyal,True
+C0704,9,5,717.65,3,At Risk,False
+C0705,1,20,2971.65,2,Loyal,False
+C0706,65,2,672.0,3,At Risk,False
+C0707,24,4,2543.35,0,Loyal,True
+C0708,6,22,4083.15,2,Loyal,False
+C0709,10,13,1644.05,2,Loyal,False
+C0710,124,1,47.5,1,At Risk,False
+C0711,74,2,119.4,1,At Risk,False
+C0712,2,4,5995.4,0,Loyal,True
+C0713,15,7,7898.4,0,Loyal,True
+C0714,3,14,3023.15,2,Loyal,False
+C0715,61,4,671.1,3,At Risk,False
+C0716,15,24,4746.25,2,Loyal,False
+C0717,5,4,5099.5,0,Loyal,True
+C0718,42,2,1497.0,3,At Risk,False
+C0719,40,2,822.0,3,At Risk,False
+C0720,9,5,605.4,3,At Risk,False
+C0721,20,21,4087.65,2,Loyal,False
+C0722,6,4,432.5,3,At Risk,False
+C0723,159,1,135.0,1,At Risk,False
+C0725,12,10,8597.55,0,Loyal,True
+C0726,8,20,3711.75,2,Loyal,False
+C0727,4,18,3649.5,2,Loyal,False
+C0728,5,20,3787.35,2,Loyal,False
+C0729,23,2,1061.7,3,At Risk,False
+C0730,34,3,271.5,3,At Risk,False
+C0731,4,23,3266.35,2,Loyal,False
+C0732,8,21,2935.0,2,Loyal,False
+C0733,13,6,2086.85,0,Loyal,True
+C0734,179,1,2598.0,1,At Risk,False
+C0735,41,2,39.25,3,At Risk,False
+C0736,157,1,50.0,1,At Risk,False
+C0737,29,3,860.0,3,At Risk,False
+C0738,41,5,313.4,3,At Risk,False
+C0739,2,4,2570.3,0,Loyal,True
+C0740,44,17,1984.65,2,Loyal,False
+C0741,52,4,5844.1,0,Loyal,True
+C0742,10,16,4395.5,2,Loyal,False
+C0743,60,7,12730.05,0,Loyal,True
+C0744,121,2,288.75,1,At Risk,False
+C0745,1,17,3663.55,2,Loyal,False
+C0746,1,21,2566.2,2,Loyal,False
+C0747,9,2,55.35,3,At Risk,False
+C0748,11,25,4509.7,2,Loyal,False
+C0749,10,14,1778.0,2,Loyal,False
+C0750,6,21,3469.5,2,Loyal,False
+C0751,4,17,2444.1,2,Loyal,False
+C0752,3,21,4236.9,2,Loyal,False
+C0753,2,16,2038.85,2,Loyal,False
+C0754,4,4,920.4,3,At Risk,False
+C0755,31,3,681.2,3,At Risk,False
+C0756,3,17,3515.85,2,Loyal,False
+C0757,8,16,3463.4,2,Loyal,False
+C0758,3,15,2665.9,2,Loyal,False
+C0760,21,20,3746.1,2,Loyal,False
+C0761,57,5,1305.25,0,Loyal,True
+C0762,23,17,3474.65,2,Loyal,False
+C0763,108,4,1563.25,1,At Risk,False
+C0764,46,4,883.0,3,At Risk,False
+C0765,8,4,780.0,3,At Risk,False
+C0766,97,2,487.65,1,At Risk,False
+C0767,1,21,3663.85,2,Loyal,False
+C0768,162,1,40.0,1,At Risk,False
+C0769,2,6,2407.45,0,Loyal,True
+C0770,4,19,2552.15,2,Loyal,False
+C0771,73,2,171.0,1,At Risk,False
+C0772,5,21,3596.8,2,Loyal,False
+C0773,3,15,2684.25,2,Loyal,False
+C0774,103,2,174.0,1,At Risk,False
+C0775,15,8,10759.2,0,Loyal,True
+C0776,12,26,5157.75,2,Loyal,False
+C0777,5,8,6034.3,0,Loyal,True
+C0778,101,5,3335.6,0,Loyal,True
+C0779,137,3,4504.65,1,At Risk,False
+C0780,4,15,2895.75,2,Loyal,False
+C0781,85,1,560.0,1,At Risk,False
+C0782,27,3,330.75,3,At Risk,False
+C0783,32,3,1140.8,3,At Risk,False
+C0784,37,6,2802.45,0,Loyal,True
+C0785,7,5,6373.65,0,Loyal,True
+C0786,7,13,2349.8,2,Loyal,False
+C0787,30,2,236.1,3,At Risk,False
+C0788,48,4,561.0,3,At Risk,False
+C0789,60,1,52.2,3,At Risk,False
+C0790,7,24,4238.5,2,Loyal,False
+C0791,75,2,184.3,1,At Risk,False
+C0792,6,22,4221.25,2,Loyal,False
+C0793,1,7,3865.85,0,Loyal,True
+C0794,13,1,21.6,3,At Risk,False
+C0795,32,6,910.7,3,At Risk,False
+C0796,89,1,352.0,1,At Risk,False
+C0797,7,22,4764.85,2,Loyal,False
+C0798,10,29,4653.75,2,Loyal,False
+C0799,2,26,2839.4,2,Loyal,False
+C0800,7,21,2638.6,2,Loyal,False
+C0801,21,1,76.5,3,At Risk,False
+C0802,11,7,7464.1,0,Loyal,True
+C0803,1,14,2683.85,2,Loyal,False
+C0804,1,16,3278.95,2,Loyal,False
+C0805,3,12,1941.45,2,Loyal,False
+C0806,14,4,429.4,3,At Risk,False
+C0807,10,18,3122.45,2,Loyal,False
+C0808,14,23,3046.3,2,Loyal,False
+C0809,31,3,642.5,3,At Risk,False
+C0810,107,1,48.0,1,At Risk,False
+C0811,22,7,4948.15,0,Loyal,True
+C0812,13,22,2897.35,2,Loyal,False
+C0813,23,16,1777.2,2,Loyal,False
+C0814,41,18,5887.4,2,Loyal,False
+C0815,2,3,1047.8,3,At Risk,False
+C0816,2,7,6514.0,0,Loyal,True
+C0817,10,3,451.65,3,At Risk,False
+C0818,65,4,2860.0,0,Loyal,True
+C0819,53,4,9144.55,0,Loyal,True
+C0820,36,3,178.0,3,At Risk,False
+C0821,4,23,4362.2,2,Loyal,False
+C0822,5,1,198.0,3,At Risk,False
+C0823,25,4,827.95,3,At Risk,False
+C0824,115,2,612.0,1,At Risk,False
+C0825,61,6,4042.25,0,Loyal,True
+C0826,42,5,881.1,3,At Risk,False
+C0828,24,6,3644.95,0,Loyal,True
+C0829,8,4,1195.5,3,At Risk,False
+C0830,7,2,353.5,3,At Risk,False
+C0831,13,5,5037.35,0,Loyal,True
+C0832,141,1,339.15,1,At Risk,False
+C0833,14,8,4444.9,0,Loyal,True
+C0834,23,2,1225.0,3,At Risk,False
+C0836,15,4,440.5,3,At Risk,False
+C0837,6,20,2896.35,2,Loyal,False
+C0838,72,2,432.5,3,At Risk,False
+C0839,1,28,3334.55,2,Loyal,False
+C0840,5,20,3689.0,2,Loyal,False
+C0841,37,6,3446.45,0,Loyal,True
+C0842,8,16,3578.05,2,Loyal,False
+C0843,35,2,107.4,3,At Risk,False
+C0844,3,15,1770.4499999999998,2,Loyal,False
+C0845,32,16,3411.2,2,Loyal,False
+C0846,3,18,3421.3,2,Loyal,False
+C0847,12,3,921.2,3,At Risk,False
+C0848,26,3,785.2,3,At Risk,False
+C0849,73,1,129.0,1,At Risk,False
+C0850,17,5,3006.6,0,Loyal,True
+C0851,169,1,129.0,1,At Risk,False
+C0852,89,4,429.2,1,At Risk,False
+C0853,5,23,3668.4,2,Loyal,False
+C0854,12,17,3477.2,2,Loyal,False
+C0855,5,14,2343.1,2,Loyal,False
+C0856,5,17,4203.95,2,Loyal,False
+C0857,49,2,168.3,3,At Risk,False
+C0858,125,5,575.1,1,At Risk,False
+C0859,40,3,482.6,3,At Risk,False
+C0860,5,21,3729.35,2,Loyal,False
+C0861,104,1,29.0,1,At Risk,False
+C0862,29,6,4456.05,0,Loyal,True
+C0863,62,2,581.75,3,At Risk,False
+C0864,19,3,544.0,3,At Risk,False
+C0865,8,5,2282.2,0,Loyal,True
+C0866,137,2,286.8,1,At Risk,False
+C0867,106,3,2794.5,1,At Risk,False
+C0868,43,16,3161.85,2,Loyal,False
+C0869,11,8,4789.0,0,Loyal,True
+C0870,35,13,2454.9,2,Loyal,False
+C0871,5,19,3235.25,2,Loyal,False
+C0872,3,19,3169.3,2,Loyal,False
+C0873,57,7,7062.7,0,Loyal,True
+C0874,64,2,204.6,3,At Risk,False
+C0875,8,19,3885.0,2,Loyal,False
+C0876,15,5,1954.9,0,Loyal,True
+C0877,17,10,904.85,2,Loyal,False
+C0878,17,2,277.4,3,At Risk,False
+C0879,53,4,2070.15,0,Loyal,True
+C0880,45,19,2659.05,2,Loyal,False
+C0881,19,3,228.95,3,At Risk,False
+C0882,98,2,888.0,1,At Risk,False
+C0883,37,4,5603.0,0,Loyal,True
+C0884,40,5,1144.1,3,At Risk,False
+C0885,64,1,225.0,3,At Risk,False
+C0886,11,20,3112.45,2,Loyal,False
+C0887,78,4,2150.15,0,Loyal,True
+C0888,28,7,6854.4,0,Loyal,True
+C0889,8,19,2949.4,2,Loyal,False
+C0890,28,5,745.0,3,At Risk,False
+C0891,60,5,487.45,3,At Risk,False
+C0892,47,2,241.25,3,At Risk,False
+C0893,2,8,1529.3,0,Loyal,True
+C0894,14,17,2919.2,2,Loyal,False
+C0895,7,13,1180.4,2,Loyal,False
+C0896,4,21,4018.75,2,Loyal,False
+C0897,2,17,2234.75,2,Loyal,False
+C0898,4,5,492.2,3,At Risk,False
+C0899,34,3,5255.3,0,Loyal,True
+C0900,1,16,4640.3,2,Loyal,False
+C0901,20,17,3170.2,2,Loyal,False
+C0902,95,1,12.0,1,At Risk,False
+C0903,5,15,4348.4,2,Loyal,False
+C0904,15,8,5360.8,0,Loyal,True
+C0905,53,16,2647.75,2,Loyal,False
+C0906,13,17,2166.05,2,Loyal,False
+C0907,13,19,2407.95,2,Loyal,False
+C0908,95,4,1140.15,1,At Risk,False
+C0909,23,18,3825.55,2,Loyal,False
+C0910,39,5,3347.3,0,Loyal,True
+C0911,1,19,3818.35,2,Loyal,False
+C0912,71,5,897.6,3,At Risk,False
+C0913,10,13,2592.4,2,Loyal,False
+C0914,12,5,5849.5,0,Loyal,True
+C0915,13,8,5522.75,0,Loyal,True
+C0916,14,6,8444.85,0,Loyal,True
+C0917,37,2,747.5,3,At Risk,False
+C0918,18,19,3997.4,2,Loyal,False
+C0920,17,5,4248.2,0,Loyal,True
+C0921,37,8,6020.8,0,Loyal,True
+C0922,2,8,914.55,2,Loyal,False
+C0923,29,3,387.0,3,At Risk,False
+C0924,4,22,4272.9,2,Loyal,False
+C0925,8,20,3100.2,2,Loyal,False
+C0926,158,1,139.5,1,At Risk,False
+C0927,66,4,767.65,3,At Risk,False
+C0928,49,1,129.0,3,At Risk,False
+C0929,16,20,3121.45,2,Loyal,False
+C0930,6,9,10151.4,0,Loyal,True
+C0931,107,1,260.0,1,At Risk,False
+C0932,128,1,525.0,1,At Risk,False
+C0933,30,14,1561.45,2,Loyal,False
+C0934,32,7,5058.4,0,Loyal,True
+C0935,60,2,378.0,3,At Risk,False
+C0936,134,1,285.0,1,At Risk,False
+C0937,12,21,4160.8,2,Loyal,False
+C0938,39,5,3674.4,0,Loyal,True
+C0939,126,3,459.5,1,At Risk,False
+C0940,23,9,8874.2,0,Loyal,True
+C0941,10,23,3866.45,2,Loyal,False
+C0942,13,6,8643.6,0,Loyal,True
+C0943,49,1,89.1,3,At Risk,False
+C0944,24,7,4795.35,0,Loyal,True
+C0945,7,17,1982.8,2,Loyal,False
+C0946,23,2,261.0,3,At Risk,False
+C0947,18,8,2787.85,0,Loyal,True
+C0948,18,17,2977.95,2,Loyal,False
+C0949,2,18,2500.6,2,Loyal,False
+C0950,15,8,6788.849999999999,0,Loyal,True
+C0951,8,5,3871.95,0,Loyal,True
+C0952,4,22,3302.7,2,Loyal,False
+C0953,1,17,3240.95,2,Loyal,False
+C0954,64,2,534.0,3,At Risk,False
+C0955,177,1,272.0,1,At Risk,False
+C0956,31,6,4567.55,0,Loyal,True
+C0957,26,21,2999.2,2,Loyal,False
+C0958,165,1,416.5,1,At Risk,False
+C0959,1,19,3062.2999999999997,2,Loyal,False
+C0960,24,8,1446.7,0,Loyal,True
+C0961,71,3,483.0,3,At Risk,False
+C0962,7,4,559.85,3,At Risk,False
+C0963,21,23,3350.2,2,Loyal,False
+C0964,2,20,4320.9,2,Loyal,False
+C0965,27,4,360.8,3,At Risk,False
+C0966,7,21,4185.3,2,Loyal,False
+C0967,108,2,185.1,1,At Risk,False
+C0968,1,19,2619.7,2,Loyal,False
+C0969,14,18,3411.25,2,Loyal,False
+C0970,28,2,510.0,3,At Risk,False
+C0971,121,2,594.4,1,At Risk,False
+C0972,94,6,4427.5,0,Loyal,True
+C0973,2,21,4499.2,2,Loyal,False
+C0974,12,4,1094.5,3,At Risk,False
+C0975,35,5,484.55,3,At Risk,False
+C0976,55,1,560.0,3,At Risk,False
+C0977,34,5,5444.6,0,Loyal,True
+C0978,38,6,918.65,3,At Risk,False
+C0979,11,1,76.8,3,At Risk,False
+C0980,35,4,3944.0,0,Loyal,True
+C0981,25,2,518.3,3,At Risk,False
+C0982,173,1,18.0,1,At Risk,False
+C0983,136,4,6344.5,1,At Risk,False
+C0984,5,5,4077.25,0,Loyal,True
+C0985,47,4,338.6,3,At Risk,False
+C0986,20,22,3324.95,2,Loyal,False
+C0987,7,16,2529.95,2,Loyal,False
+C0988,135,1,396.0,1,At Risk,False
+C0989,20,4,387.75,3,At Risk,False
+C0990,9,26,4186.95,2,Loyal,False
+C0991,95,2,148.05,1,At Risk,False
+C0992,87,3,614.75,1,At Risk,False
+C0993,10,2,151.2,3,At Risk,False
+C0994,21,3,3751.6499999999996,0,Loyal,True
+C0995,15,24,3500.4,2,Loyal,False
+C0996,27,6,5134.0,0,Loyal,True
+C0997,29,3,960.9499999999999,3,At Risk,False
+C0998,129,1,58.8,1,At Risk,False
+C0999,25,8,6428.6,0,Loyal,True
+C1000,2,8,8943.2,0,Loyal,True
+C1001,36,5,963.5,3,At Risk,False
+C1002,53,2,270.0,3,At Risk,False
+C1003,70,5,3747.9,0,Loyal,True
+C1004,80,2,112.80000000000001,1,At Risk,False
+C1005,34,2,888.0,3,At Risk,False
+C1006,44,2,252.0,3,At Risk,False
+C1007,130,1,40.0,1,At Risk,False
+C1008,16,7,6100.05,0,Loyal,True
+C1009,89,6,6931.4,0,Loyal,True
+C1010,1,9,797.5,2,Loyal,False
+C1011,6,19,4400.8,2,Loyal,False
+C1012,10,3,307.5,3,At Risk,False
+C1013,80,3,2512.8,0,Loyal,True
+C1014,5,22,5161.1,2,Loyal,False
+C1015,5,17,2968.85,2,Loyal,False
+C1016,38,17,3376.05,2,Loyal,False
+C1017,149,2,188.4,1,At Risk,False
+C1018,3,15,3156.9,2,Loyal,False
+C1019,35,4,1398.15,0,Loyal,True
+C1020,4,24,4783.9,2,Loyal,False
+C1021,42,6,1296.0,0,Loyal,True
+C1022,11,2,124.2,3,At Risk,False
+C1023,1,20,3613.85,2,Loyal,False
+C1024,16,7,10444.15,0,Loyal,True
+C1025,20,2,276.0,3,At Risk,False
+C1026,84,1,72.0,1,At Risk,False
+C1027,52,3,327.3,3,At Risk,False
+C1028,44,4,999.0,3,At Risk,False
+C1029,46,7,711.25,3,At Risk,False
+C1030,8,7,3565.55,0,Loyal,True
+C1031,84,6,5778.5,0,Loyal,True
+C1032,8,5,6889.15,0,Loyal,True
+C1033,13,18,2318.35,2,Loyal,False
+C1034,84,3,655.5,1,At Risk,False
+C1035,104,2,624.0,1,At Risk,False
+C1036,21,2,328.5,3,At Risk,False
+C1037,68,3,227.0,3,At Risk,False
+C1038,13,2,441.0,3,At Risk,False
+C1039,12,7,4787.05,0,Loyal,True
+C1040,62,2,135.0,3,At Risk,False
+C1042,8,20,4134.1,2,Loyal,False
+C1043,5,16,3558.45,2,Loyal,False
+C1044,7,7,6982.549999999999,0,Loyal,True
+C1045,48,5,2965.05,0,Loyal,True
+C1046,25,2,173.1,3,At Risk,False
+C1047,6,15,1651.9,2,Loyal,False
+C1048,98,3,446.0,1,At Risk,False
+C1049,1,24,4396.7,2,Loyal,False
+C1050,73,2,162.75,1,At Risk,False
+C1051,29,2,316.8,3,At Risk,False
+C1053,155,1,396.0,1,At Risk,False
+C1054,111,1,43.2,1,At Risk,False
+C1055,26,7,1319.5,0,Loyal,True
+C1056,6,3,388.0,3,At Risk,False
+C1057,17,17,2654.15,2,Loyal,False
+C1058,4,21,3951.15,2,Loyal,False
+C1059,4,11,7107.35,2,Loyal,False
+C1060,9,16,2292.05,2,Loyal,False
+C1061,74,1,34.8,1,At Risk,False
+C1062,21,6,1885.6999999999998,0,Loyal,True
+C1063,5,15,1742.05,2,Loyal,False
+C1064,6,19,3236.95,2,Loyal,False
+C1065,136,2,103.0,1,At Risk,False
+C1066,30,4,385.3,3,At Risk,False
+C1067,15,6,2486.2,0,Loyal,True
+C1068,2,24,3908.95,2,Loyal,False
+C1069,30,19,4652.35,2,Loyal,False
+C1070,136,2,378.0,1,At Risk,False
+C1071,1,1,188.1,3,At Risk,False
+C1072,1,21,2945.6,2,Loyal,False
+C1073,15,3,420.4,3,At Risk,False
+C1074,39,18,2098.6,2,Loyal,False
+C1075,122,1,198.0,1,At Risk,False
+C1076,31,3,458.6,3,At Risk,False
+C1077,11,22,3324.9,2,Loyal,False
+C1078,24,4,1285.85,3,At Risk,False
+C1079,9,22,4655.95,2,Loyal,False
+C1080,11,27,4473.75,2,Loyal,False
+C1081,45,7,6216.25,0,Loyal,True
+C1082,3,17,2687.9,2,Loyal,False
+C1084,38,3,233.8,3,At Risk,False
+C1085,12,5,7222.9,0,Loyal,True
+C1086,1,3,1605.8,0,Loyal,True
+C1087,40,2,512.4,3,At Risk,False
+C1088,45,4,604.5,3,At Risk,False
+C1089,150,2,1060.5,1,At Risk,False
+C1090,48,4,2701.1,0,Loyal,True
+C1091,4,12,1237.2,2,Loyal,False
+C1092,20,3,760.8,3,At Risk,False
+C1093,9,19,3138.85,2,Loyal,False
+C1094,10,4,3932.8,0,Loyal,True
+C1095,1,26,4852.6,2,Loyal,False
+C1096,6,23,4024.9,2,Loyal,False
+C1097,133,1,379.05,1,At Risk,False
+C1098,28,4,6644.5,0,Loyal,True
+C1099,23,3,1323.05,3,At Risk,False
+C1100,49,2,718.0,3,At Risk,False
+C1101,61,5,699.5,3,At Risk,False
+C1102,9,8,7503.6,0,Loyal,True
+C1103,18,2,202.5,3,At Risk,False
+C1104,86,3,504.6,1,At Risk,False
+C1105,15,1,260.0,3,At Risk,False
+C1106,71,3,485.0,3,At Risk,False
+C1107,3,13,2075.0,2,Loyal,False
+C1108,12,5,834.8,3,At Risk,False
+C1109,4,26,3681.25,2,Loyal,False
+C1110,1,21,4191.5,2,Loyal,False
+C1112,20,6,5620.4,0,Loyal,True
+C1113,14,3,2760.45,0,Loyal,True
+C1114,1,5,2149.7999999999997,0,Loyal,True
+C1115,66,3,294.4,3,At Risk,False
+C1116,21,3,352.95,3,At Risk,False
+C1117,15,6,7042.2,0,Loyal,True
+C1118,22,18,1944.65,2,Loyal,False
+C1119,7,19,3447.5,2,Loyal,False
+C1120,7,13,3189.5,2,Loyal,False
+C1121,25,4,770.25,3,At Risk,False
+C1122,7,20,3080.8,2,Loyal,False
+C1123,25,3,3002.1,0,Loyal,True
+C1124,1,12,1700.8,2,Loyal,False
+C1125,13,5,372.55,3,At Risk,False
+C1126,48,8,8595.7,0,Loyal,True
+C1127,21,5,4292.5,0,Loyal,True
+C1128,8,1,126.0,3,At Risk,False
+C1129,64,3,2902.85,0,Loyal,True
+C1130,7,18,3919.35,2,Loyal,False
+C1131,63,4,1091.8,3,At Risk,False
+C1132,67,4,4776.9,0,Loyal,True
+C1133,20,18,3068.0,2,Loyal,False
+C1134,17,20,4973.85,2,Loyal,False
+C1135,8,18,3371.35,2,Loyal,False
+C1136,60,6,9650.25,0,Loyal,True
+C1137,20,18,3775.9,2,Loyal,False
+C1138,66,2,342.0,3,At Risk,False
+C1139,17,29,5139.25,2,Loyal,False
+C1140,19,23,4223.15,2,Loyal,False
+C1141,22,20,3163.9,2,Loyal,False
+C1142,5,20,5120.95,2,Loyal,False
+C1143,13,13,2253.4,2,Loyal,False
+C1144,111,1,71.25,1,At Risk,False
+C1145,45,22,2527.45,2,Loyal,False
+C1146,47,6,9082.65,0,Loyal,True
+C1147,20,9,10156.9,0,Loyal,True
+C1148,8,5,3155.45,0,Loyal,True
+C1149,85,2,161.4,1,At Risk,False
+C1150,7,20,2392.8,2,Loyal,False
+C1151,31,21,2647.5,2,Loyal,False
+C1152,3,20,2892.55,2,Loyal,False
+C1153,18,4,2490.9,0,Loyal,True
+C1154,95,3,477.2,1,At Risk,False
+C1155,2,20,4418.5,2,Loyal,False
+C1156,22,4,5894.6,0,Loyal,True
+C1157,40,3,2132.2,0,Loyal,True
+C1158,66,1,33.6,1,At Risk,False
+C1159,95,1,108.0,1,At Risk,False
+C1160,3,1,51.0,3,At Risk,False
+C1161,32,3,374.0,3,At Risk,False
+C1162,19,1,183.75,3,At Risk,False
+C1163,86,3,664.05,1,At Risk,False
+C1164,10,14,2185.9,2,Loyal,False
+C1166,2,19,2158.8,2,Loyal,False
+C1167,6,23,2263.3,2,Loyal,False
+C1168,37,3,488.6,3,At Risk,False
+C1169,44,2,496.0,3,At Risk,False
+C1170,156,3,393.0,1,At Risk,False
+C1171,39,10,5406.45,0,Loyal,True
+C1172,12,16,2847.6,2,Loyal,False
+C1173,47,4,350.75,3,At Risk,False
+C1174,39,13,1816.9,2,Loyal,False
+C1175,8,22,4868.95,2,Loyal,False
+C1176,37,4,762.5,3,At Risk,False
+C1177,74,2,404.0,3,At Risk,False
+C1178,68,3,370.5,3,At Risk,False
+C1179,25,2,157.75,3,At Risk,False
+C1180,110,1,44.8,1,At Risk,False
+C1181,15,6,7094.0,0,Loyal,True
+C1182,25,5,1228.5,0,Loyal,True
+C1183,99,2,4447.25,0,Loyal,True
+C1184,90,2,143.6,1,At Risk,False
+C1185,1,21,3594.3,2,Loyal,False
+C1186,18,3,601.0,3,At Risk,False
+C1187,28,3,347.0,3,At Risk,False
+C1188,27,6,2202.45,0,Loyal,True
+C1190,6,20,1958.1,2,Loyal,False
+C1191,3,24,4570.0,2,Loyal,False
+C1192,9,4,252.9,3,At Risk,False
+C1193,3,1,20.0,3,At Risk,False
+C1194,76,3,461.5,3,At Risk,False
+C1195,1,15,2485.85,2,Loyal,False
+C1196,105,3,339.0,1,At Risk,False
+C1197,5,22,3353.95,2,Loyal,False
+C1198,4,18,2803.2,2,Loyal,False
+C1199,17,4,3861.8500000000004,0,Loyal,True
+C1200,3,22,3559.1,2,Loyal,False

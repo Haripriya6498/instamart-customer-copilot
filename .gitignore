@@ -1,0 +1,9 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+*.iml
+State/
+check_s5.py
